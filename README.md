@@ -1,5 +1,5 @@
 # SPFAbuse
-SPF are not a strong as you may think. Red Team tool to send email on behalf of your target corp. The email format is expected to be `text/html`
+SPF are not as strong as you may think. Red Team tool to send email on behalf of your target corp. The email format is expected to be `text/html`
 
 # API key
 You need to register a free account on sendgrid to be able to send emails.
