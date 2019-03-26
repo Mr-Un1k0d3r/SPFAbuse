@@ -1,0 +1,16 @@
+# SPFAbuse
+SPF are not a strong as you may think. Red Team tool to send email on behalf of your target corp. The email format is expected to be `text/html`
+
+# API key
+You need to register a free account on sendgrid to be able to send emails.
+
+# Usage
+```
+python3 SPFAbuse.py 
+SPF Abuse - Mr.Un1k0d3r RingZer0 Team
+
+Usage: SPFAbuse.py from to subject pathtofile apikey
+```
+
+# Credit
+Mr.Un1k0d3r RingZer0 Team
