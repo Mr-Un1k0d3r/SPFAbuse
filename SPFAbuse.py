@@ -38,7 +38,7 @@ if __name__ == "__main__":
 	
 	body["content"] = []
 	content = {}
-	content["type"] = "text/plain";
+	content["type"] = "text/html";
 	content["value"] = open(sys.argv[4]).read()
 	body["content"].append(content)
 	
