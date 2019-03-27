@@ -1,6 +1,8 @@
 # SPFAbuse
 SPF are not as strong as you may think. Red Team tool to send email on behalf of your target corp. The email format is expected to be `text/html`
 
+Moral of the story make sure that DMARC is enforced :)
+
 # API key
 You need to register a free account on sendgrid to be able to send emails.
 
